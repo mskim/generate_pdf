@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'hexapdf'
+gem 'hexapdf', '=0.11.5'
+

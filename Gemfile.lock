@@ -3,15 +3,15 @@ GEM
   specs:
     cmdparse (3.0.7)
     geom2d (0.3.1)
-    hexapdf (0.14.2)
+    hexapdf (0.11.5)
       cmdparse (~> 3.0, >= 3.0.3)
-      geom2d (~> 0.3)
+      geom2d (~> 0.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  hexapdf
+  hexapdf (= 0.11.5)
 
 BUNDLED WITH
    2.1.4
