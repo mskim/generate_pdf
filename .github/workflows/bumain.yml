@@ -36,5 +36,5 @@ jobs:
       - name: Run a multi-line script
         run:
           gem install bundler
-          bundle install --without development --jobs 4 --retry 3
+          bundle install --without development --retry 3
           ruby hello_world.rb
