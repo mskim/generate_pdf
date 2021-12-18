@@ -17,7 +17,7 @@ puts h = page.box.height
 
 # puts "canvas.box.width:#{canvas.box.width}"
 # puts "canvas.height:#{canvas.height}"
-str = "Hello Min Soo! 3"
+str = "Hello Min Soo! 2021"
 puts "printing: #{str}"
 canvas.transform(1, 0, 0, 1, 0, h)
 canvas.font('Helvetica', size: 50)
